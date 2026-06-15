@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fond -->
+  <rect width="512" height="512" rx="96" fill="#1a56db"/>
+  <!-- Règle : rectangle principal -->
+  <rect x="64" y="192" width="384" height="128" rx="24" fill="white" fill-opacity="0.15" stroke="white" stroke-width="10"/>
+  <!-- Graduations longues -->
+  <line x1="128" y1="192" x2="128" y2="256" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <line x1="256" y1="192" x2="256" y2="256" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <line x1="384" y1="192" x2="384" y2="256" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <!-- Graduations courtes -->
+  <line x1="192" y1="192" x2="192" y2="234" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <line x1="320" y1="192" x2="320" y2="234" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <!-- Très courtes -->
+  <line x1="160" y1="192" x2="160" y2="220" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <line x1="224" y1="192" x2="224" y2="220" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <line x1="288" y1="192" x2="288" y2="220" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <line x1="352" y1="192" x2="352" y2="220" stroke="white" stroke-width="6" stroke-linecap="round"/>
+</svg>
